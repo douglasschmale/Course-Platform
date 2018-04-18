@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CoursePlatform
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Doug
+Implementation-Vendor-Id: com.codingdojo.coursePlatform
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CoursePlatform
+Created-By: Maven Integration for Eclipse
+
